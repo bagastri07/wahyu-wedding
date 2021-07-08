@@ -54,12 +54,14 @@
             }
         }
         .detail {
+            margin: 0 5vw;
             &-wl {
                 display: flex;
                 align-items: center;
                 p {
                     font-size: 2.4vmin;
-                    margin-left: 1vw;
+                    margin-left: 1vw;                    
+                    flex-basis: 80%;
                 }
                 margin-bottom: 1vmin;
             }
@@ -76,7 +78,7 @@
             padding: .5vmax 4vmin .5vmax 2vmin;
             border-radius: 2vmin;
             p {
-                color: $green-wed-2;
+                color: $brown-wed;
                 font-size: 4vmin;
                 margin-left: 1vw;
             }

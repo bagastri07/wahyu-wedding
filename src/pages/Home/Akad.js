@@ -24,15 +24,15 @@ const Akad = () => {
                 <div className="detail">
                     <div className="detail-wl">
                         <BiTimeFive size="3vmax" color="white" />
-                        <p>10.00 - 17.00 WIB</p>                    
+                        <p>13.00 - 19.00 WIB</p>                    
                     </div>
                     <div className="detail-wl">
                         <FaCalendarAlt size="3vmax" color="white" />
-                        <p>Rabu, 26 Mei 2021</p>
+                        <p>Senin, 2 Agustus 2021</p>
                     </div>
                     <div className="detail-wl">
                         <FiMapPin size="3vmax" color="white" />
-                        <p>Belakang Ciptaland</p>
+                        <p>Jln. Cilik Riwut II Gg. Murai RT 13 Kelurahan Sidorejo</p>
                     </div>                
 
                 </div>
@@ -45,7 +45,7 @@ const Akad = () => {
                     className="btn-link"
                 >
                    
-                    <ImLocation size="3vmax" color="#4E937E" />
+                    <ImLocation size="3vmax" color="#AD7961" />
                     <p>Google Maps</p>
                 </a>                
                 <a  
@@ -54,7 +54,7 @@ const Akad = () => {
                     href="https://www.instagram.com/muktiareif/" 
                     className="btn-link"
                 >
-                    <FaInstagram size="3vmax" color="#4E937E" />
+                    <FaInstagram size="3vmax" color="#AD7961" />
                     <p>Live Instagram</p>
                 </a>
             

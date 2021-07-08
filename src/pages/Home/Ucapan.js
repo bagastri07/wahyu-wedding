@@ -52,8 +52,8 @@ function NextArrow(props) {
     const people = [ 
         {
             url: pic1,
-            name: 'Afuza Imam Awed Alfaruq',
-            pesan: 'Untuk Suami, Percayalah, ketika engkau memuliakan istrimu, maka sejak saat itu kebahagiaan akan selalu menghampirimu... Untuk Istri, Suami tidak akan pernah berhenti untuk memikirkan pasangannya (istri). Percayalah, dia selalu memikirkan dan memberikan yang terbaik untuk dirimu...'
+            name: 'Lucita Sibarani',
+            pesan: 'Pernikahan membuat orang mengetahui bahwa hidup tidak satu warna, namun ada banyak warna yang membahagiakan. Beli kayu. Di kota Kendari. Selamat Mba Ayu Udah sah jadi Istri. Selamat menempuh hidup baru yang penuh warna Ayu & Beka'
         },
         {
             url: pic2,
