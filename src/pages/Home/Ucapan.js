@@ -57,28 +57,28 @@ function NextArrow(props) {
         },
         {
             url: pic2,
-            name: 'Anddy Marrusliansyah',
-            pesan: 'Kami tidak bisa memberikan sesuatu yang terbaik untuk dirimu, teman sekaligus keluarga untukmu. Setelah sekian lama akhirnya dirimu menemukan tambatan hati yang terakhir, kami akan selalu berdoa semoga hal terbaik menyertai u dan mampu mengarungi bahtera keluarga yang baru'
+            name: 'BAYU MAHENDRA',
+            pesan: 'Tidak semua yang diberikan harus dikatakan, Seperti Cinta yang selalu ada dalam Doa disepanjang jalan menuju persinggahan'
         },
         {
             url: pic3,
-            name: 'Bu Eka Rubiyatun',
-            pesan: 'Komitmen, kesabaran, dan kesetiaan menjadi tiga bahan yang perlu dipupuk dalam pernikahan. Jangan berhenti untuk merawat, karena bunga itu akan menemanimu setiap saat.'
+            name: 'Aulia Qotrunnada',
+            pesan: 'Tak selamanya yang dianggap pahit akan berujung pahit, begitu juga yang dianggap indah tak selamanya berujung indah. Semua tergantung dengan pemikiran masing-masing individu. Tetapi akan berbeda cerita jika telah menemukan seseorang yang dengan tulus mencintai. Apa yang dianggap indah akan selalu indah, tanpa ada kepahitan di dalamnya'
         },
         {
             url: pic4,
-            name: 'Putri Dian Nawwirah',
-            pesan: 'Selamat menempuh hidup baru & selamat berbahagia Kakakku... Semoga Allah memberikan keberkahan kepadamu serta keberkahan atasmu dan semoga Allah mengumpulkan kalian berdua dalam kebaikan....'
+            name: 'Nani Surdayani',
+            pesan: 'Perjalanan hidup manusia itu tidak mudah. Begitu pula dengan perjalanan hati yang berjuang menemukan cintanya. Ketika hati berhasil menemukan cintanya, maka cintailah tanpa syara'
         },
         {
             url: pic5,
-            name: 'Novita',
-            pesan: "Barakallahu lakuma wa baraka 'alaikuma wa jama'a bainakuma fii khoir.  Selamat menempuh hidup baru ...d berikan keturuan yang shalih  shalihah... Semoga suami mu bisa menjadi pendamping dunia dan akhirat mu.. dan bisa membahagiakan mu lahir dan batin."
+            name: 'Remy Rashilla Abdan',
+            pesan: "Wishing you a lifetime of love and happiness"
         },
         {
             url: pic6,
-            name: 'Lila Zein',
-            pesan: "Buat kak Sanah, dan bang Mukti.... Selamat menempuh kehidupan yang penuh keberkahan, dan kebahagiaan duniaakhirat. 'Sebuah pernikahan itu bagaikan rantai dan cincin emas,  Yang diawali dengan secercah sinar terang dan di akhiri dengan keabadian'"
+            name: 'ZIDAN FEBRIAN',
+            pesan: "Love is truly amazing. There’s been up, there’s been down. But the fighter of love still able to survive. If you believe in love, love will guide you until happiness"
         },
     ] 
     return (
