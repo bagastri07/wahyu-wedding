@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import YouTube from 'react-youtube';
+// import YouTube from 'react-youtube';
 import Slider from "react-slick";
 
 import pic1 from '../../assets/images/gallery_1.jpg'
@@ -101,23 +101,12 @@ function NextArrow(props) {
           <div id="vid-wed">
 
           </div>
-          <h1 className="title" data-aos="fade-up">Video Pre-Wedding</h1>
+          {/* <h1 className="title" data-aos="fade-up">Video Pre-Wedding</h1>
           <div className="video" data-aos="fade-up">
-              <div className="video-wrapper">                
-                  {/* <iframe
-                          src="https://www.youtube.com/embed/TTgN-gMZKoU"
-                          frameBorder="0"
-                          allow="autoplay; encrypted-media"
-                          allowFullScreen
-                          title="video"
-                          width="560"
-                          height="315"                          
-                  /> */}
+              <div className="video-wrapper">                                
                   <YouTube videoId="TTgN-gMZKoU" opts={opts} onPlay={handleBacksound}/>
-
-              </div>
-              
-          </div>
+              </div>              
+          </div> */}
 
         </div>
     )
