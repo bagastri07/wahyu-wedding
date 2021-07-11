@@ -36,7 +36,7 @@ function NextArrow(props) {
       </div>
     );
   }
-  const Dokumentasi = ({handleBacksound}) => {
+  const Dokumentasi = () => {
     // const ref = useRef(null);    
     const getWidth = () => window.innerWidth 
       || document.documentElement.clientWidth 
@@ -73,11 +73,11 @@ function NextArrow(props) {
       nextArrow: <NextArrow />,
       prevArrow: <PrevArrow />
     };  
+    // const opts = {
+    //   height: '315',
+    //   width: '560',      
+    // };
     const gallery = [pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8]     
-    const opts = {
-      height: '315',
-      width: '560',      
-    };
 
     return (
         <div className="dokumentasi-container" id="gal-wed">            
