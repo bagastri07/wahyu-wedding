@@ -41,7 +41,7 @@ const Akad = () => {
                 <a           
                     target="_blank"
                     rel="noopener noreferrer" 
-                    href="https://maps.app.goo.gl/gHXu9X7CscSQwpHx9" 
+                    href="https://maps.google.com/maps?q=-2.6991507%2C111.622062&z=17&hl=id" 
                     className="btn-link"
                 >
                    
@@ -51,7 +51,7 @@ const Akad = () => {
                 <a  
                     target="_blank"
                     rel="noopener noreferrer" 
-                    href="https://www.instagram.com/muktiareif/" 
+                    href="https://www.instagram.com/wbekaa/" 
                     className="btn-link"
                 >
                     <FaInstagram size="3vmax" color="#AD7961" />

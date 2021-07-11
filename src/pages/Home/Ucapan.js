@@ -57,7 +57,7 @@ function NextArrow(props) {
         },
         {
             url: pic2,
-            name: 'BAYU MAHENDRA',
+            name: 'Bayu Mahendra',
             pesan: 'Tidak semua yang diberikan harus dikatakan, Seperti Cinta yang selalu ada dalam Doa disepanjang jalan menuju persinggahan'
         },
         {
@@ -77,7 +77,7 @@ function NextArrow(props) {
         },
         {
             url: pic6,
-            name: 'ZIDAN FEBRIAN',
+            name: 'Zidan Febrian',
             pesan: "Love is truly amazing. There’s been up, there’s been down. But the fighter of love still able to survive. If you believe in love, love will guide you until happiness"
         },
     ] 
