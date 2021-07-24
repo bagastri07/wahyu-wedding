@@ -68,7 +68,7 @@ function NextArrow(props) {
         {
             url: pic4,
             name: 'Nani Surdayani',
-            pesan: 'Perjalanan hidup manusia itu tidak mudah. Begitu pula dengan perjalanan hati yang berjuang menemukan cintanya. Ketika hati berhasil menemukan cintanya, maka cintailah tanpa syara'
+            pesan: 'Perjalanan hidup manusia itu tidak mudah. Begitu pula dengan perjalanan hati yang berjuang menemukan cintanya. Ketika hati berhasil menemukan cintanya, maka cintailah tanpa syarat'
         },
         {
             url: pic5,

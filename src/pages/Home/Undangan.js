@@ -6,26 +6,7 @@ import stroke from '../../assets/images/stroke.png'
 import strokeMirror from '../../assets/images/stroke_mirror.png'
 import Countdown from 'react-countdown';
 
-const Undangan = () => {
-    // const ulang = [1,2,3,4]
-    // const dataWaktu = [
-    //     {
-    //         num: 23,
-    //         text: 'Hari'
-    //     },
-    //     {
-    //         num: 6,
-    //         text: 'Jam'
-    //     },
-    //     {
-    //         num: 4,
-    //         text: 'Menit'
-    //     },
-    //     {
-    //         num: 2,
-    //         text: 'Detik'
-    //     }
-    // ]
+const Undangan = () => {    
     const dday = new Date(2021, 7, 2)
     // console.log(dday)
     const renderer = ({ formatted: { days, hours, minutes, seconds }}) => {        
@@ -105,7 +86,7 @@ const Undangan = () => {
                     </div>
                     <div className="profil-info">
                         <p>Wahyu Budi Kusuma</p>
-                        <p>Putra dari Bapak Harsono dan Ibu Suharyati</p>
+                        <p>Putra dari Bapak Harsono dan Ibu Siti Suharyati</p>
                     </div>
                 </div>
                 <div className="stroke">
