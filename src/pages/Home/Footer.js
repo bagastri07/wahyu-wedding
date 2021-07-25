@@ -9,7 +9,7 @@ const Footer = () => {
             &#38; <a  target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/alfi_nasution">M. Alfi Syahri N </a> <br />
             Icons by <a  target="_blank" rel="noopener noreferrer" href="https://www.freepik.com/">Freepik </a> 
             &#38; <a  target="_blank" rel="noopener noreferrer" href="https://www.flaticon.com/">Flaticon</a> <br />
-            Song by <a  target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=p_IwENcMPOA">Thomas Rhett - Marry Me</a>
+            Song by <a  target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=1iYUQW6RovY">All of Me - John Legend (Boyce Avenue acoustic cover)</a>
             </p>
         </div>
     )
