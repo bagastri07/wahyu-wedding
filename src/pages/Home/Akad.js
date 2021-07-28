@@ -24,7 +24,7 @@ const Akad = () => {
                 <div className="detail">
                     <div className="detail-wl">
                         <BiTimeFive size="3vmax" color="white" />
-                        <p>15.00 - 19.00 WIB</p>                    
+                        <p>14.00 - 19.00 WIB</p>                    
                     </div>
                     <div className="detail-wl">
                         <FaCalendarAlt size="3vmax" color="white" />
